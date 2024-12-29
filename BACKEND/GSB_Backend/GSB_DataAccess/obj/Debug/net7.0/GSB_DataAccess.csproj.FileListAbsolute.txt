@@ -1,0 +1,17 @@
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\bin\Debug\net7.0\GSB_DataAccess.deps.json
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\bin\Debug\net7.0\GSB_DataAccess.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\bin\Debug\net7.0\GSB_DataAccess.pdb
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\bin\Debug\net7.0\GSB_Model.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\bin\Debug\net7.0\GSB_Model.pdb
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.AssemblyInfo.cs
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.csproj.CopyComplete
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\refint\GSB_DataAccess.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\GSB_DataAccess.pdb
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_DataAccess\obj\Debug\net7.0\ref\GSB_DataAccess.dll

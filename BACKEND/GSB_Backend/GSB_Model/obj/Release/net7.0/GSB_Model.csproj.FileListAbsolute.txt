@@ -1,0 +1,15 @@
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\bin\Release\net7.0\GSB_Model.deps.json
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\bin\Release\net7.0\GSB_Model.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\bin\Release\net7.0\GSB_Model.pdb
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\bin\Release\net7.0\Infrastructure.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\bin\Release\net7.0\Infrastructure.pdb
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.csproj.AssemblyReference.cache
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.AssemblyInfoInputs.cache
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.AssemblyInfo.cs
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.csproj.CopyComplete
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\refint\GSB_Model.dll
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\GSB_Model.pdb
+C:\Users\Tunahan\Desktop\GSB_Backend\GSB_Model\obj\Release\net7.0\ref\GSB_Model.dll

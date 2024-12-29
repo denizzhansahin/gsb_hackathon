@@ -1,0 +1,59 @@
+Gönderi Sayfası:
+Başlık
+Alt Başlık
+Metin
+görsel yolu veya görsel
+yetkili kişi*
+kategori
+takip eden gençler*
+
+
+Yetkili Kişi:
+tc
+şehir
+Ad
+Soyad
+İletişim
+Alan kategorisi
+gönderiler*
+
+Burslar:
+Tür
+Süre
+Aylık ücret
+şartlar
+burs katılımcısı*
+burs yetkili kişisi veya kurum*
+
+Gençler:
+tc
+şehir
+ad
+soyad
+iletişim
+ilgilendiği alan
+ilgilendiği alt alanlar
+destek talepleri*
+burs bilgileri*
+takip ettiği gönderiler*
+
+Destek Talepleri:
+gönderi sayfası* zorunlu değil, var mı yokmu
+genç bilgi*
+yetkili kişi bilgi*
+başlık
+içerik
+görsel yolu
+destek türü
+
+
+Bir gönderi sayfasını sadece bir yetkili kişi yazabilir ve sahip olabilir. many to one
+Bir yetkili kişi birden fazla gönderiye sahip olabilir. one to many
+Bir gönderi birden fazla genç beğenebilir-takip etme. many to many
+Bir genç birden fazla gönderi beğenebilir-takip etme. many to many
+bir bursa birden fazla genç başvuru yapabilir. many to many
+bir genç birden fazla bursa sahip olabilir. many to many
+bir bursu sadece bir kurum açabilir. many to one
+bir kurum birden fazla burs açabilir. one to many
+bir genç birden fazla destek talebi açabilir. one to many
+bir yetkili birden fazla destek talebine sahip olabilir. one to many

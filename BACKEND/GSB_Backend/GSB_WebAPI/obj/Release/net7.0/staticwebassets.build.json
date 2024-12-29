@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hYrSxBsHbevXqAQ9DC7NuuQ9VW3yV094W/J8q71WJuQ=",
+  "Source": "GSB_WebAPI",
+  "BasePath": "_content/GSB_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
